@@ -2,7 +2,7 @@
 
 Learning  
 
-#Create Count features of continous variables.  
-#Augment the data.  
-#Non normal naive bayes.  
-#New Feature Engineering using Feature ratio.  
+-Create Count features of continous variables.  
+-Augment the data.  
+-Non normal naive bayes.  
+-New Feature Engineering using Feature ratio.  
